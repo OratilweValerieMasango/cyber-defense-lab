@@ -25,7 +25,7 @@
 
 ## 📄 Project
 
-👉 [View Full Project]
+👉  [View Full Project](./Oratilwe%20Masango%20CySA%20Project.pdf)
 
 ---
 
