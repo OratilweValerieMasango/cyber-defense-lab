@@ -16,7 +16,14 @@
 * Implemented IDS
 
 ---
+## 🎯 Impact
 
+- Identified active hosts, open ports, and exposed services using Nmap  
+- Analysed network traffic using Wireshark to detect anomalies and understand TCP behaviour  
+- Simulated real-world attack scenarios (SSH brute-force) and evaluated security weaknesses  
+- Applied defensive strategies to improve network security and reduce attack surface
+
+---
 ## 🛠️ Tools
 
 `Kali Linux` `Wireshark` `Nmap` `Nessus` `GNS3`
